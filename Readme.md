@@ -13,8 +13,10 @@ Node js should be installed in your pc
 5. Run - npm start
 6. A message like running on port 4000 and connected to database should come
 7. Baseurl will be:
+
 8. http://localhost:4000/api/services
 9. Example url:
 10. http://localhost:4000/api/services/
 11. http://localhost:4000/api/services/:id
-12. 
+
+12. You can also see example response of postman in postman_collection_response.json
